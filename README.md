@@ -9,7 +9,7 @@
 ### Cart
 ![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/anushakapandey03/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
