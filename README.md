@@ -3,11 +3,11 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/anushakapandey03/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
-![homepage snap](https://github.com/anushakapandey03/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
-![cart snap](https://github.com/anushakapandey03/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
 ### Track Orders
 ![orders snap](https://github.com/anushakapandey03/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
 ---
